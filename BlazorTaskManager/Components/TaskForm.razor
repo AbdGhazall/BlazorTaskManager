@@ -7,18 +7,20 @@
 
 <EditForm Model="newTask" OnValidSubmit="HandleValidSubmit">
     <DataAnnotationsValidator />
-    <ValidationSummary />
+    @* <ValidationSummary /> *@
 
     <!-- Title -->
     <div class="mb-3">
         <label class="form-label">Title</label>
         <InputText class="form-control" @bind-Value="newTask.Title" />
+        <ValidationMessage For="(() => newTask.Title)" />
     </div>
 
     <!-- Description -->
     <div class="mb-3">
         <label class="form-label">Description</label>
         <InputTextArea class="form-control" @bind-Value="newTask.Description" />
+        <ValidationMessage For="(() => newTask.Description)" />
     </div>
 
     <!-- Priority -->
@@ -30,6 +32,7 @@
             <option>Medium</option>
             <option>High</option>
         </InputSelect>
+		<ValidationMessage For="(() => newTask.Priority)" />
     </div>
 
     <!-- Due Date -->
