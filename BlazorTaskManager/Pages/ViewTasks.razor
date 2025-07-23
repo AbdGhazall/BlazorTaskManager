@@ -1,0 +1,44 @@
+﻿@page "/tasks"
+@using BlazorTaskManager.Services
+@using BlazorTaskManager.Models
+@using BlazorTaskManager.Components
+@inject TaskService TaskService
+@inject NavigationManager Navigation
+
+<h3>All Tasks</h3>
+
+<button class="btn btn-secondary mb-3" @onclick="@(() => Navigation.NavigateTo("/"))">
+    Back to Add Task
+</button>
+
+@if (TaskService.GetTasks().Count == 0)
+{
+    <p>No tasks yet.</p>
+}
+else
+{
+    <div class="row">
+        @foreach (var task in TaskService.GetTasks())
+        {
+            <div class="col-md-4">
+                <TaskCard Task="task" OnDelete="DeleteTask" />
+            </div>
+        }
+    </div>
+}
+@code {
+    private List<TaskItem> tasks;
+
+    protected override void OnInitialized()
+    {
+        tasks = TaskService.GetTasks();
+    }
+
+    private void DeleteTask(int id)
+    {
+        TaskService.DeleteTask(id);
+        tasks = TaskService.GetTasks(); // refresh list
+    }
+}
+
+

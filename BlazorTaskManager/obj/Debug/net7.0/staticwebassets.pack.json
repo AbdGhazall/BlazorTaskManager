@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorTaskManager.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BlazorTaskManager.p18di67tjg.bundle.scp.css"
+      "PackagePath": "staticwebassets\\BlazorTaskManager.86mtjfjdal.bundle.scp.css"
     },
     {
       "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
@@ -61,20 +61,44 @@
       "PackagePath": "staticwebassets\\uploads\\12ff5fc0-9668-460b-ba41-41f8e21e7497_Screenshot 2025-07-23 091345.png"
     },
     {
+      "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345.png",
+      "PackagePath": "staticwebassets\\uploads\\17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345.png"
+    },
+    {
       "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\21864e45-b2a3-4013-ba1b-de8ee3e64c07_Screenshot 2025-07-23 091345.png",
       "PackagePath": "staticwebassets\\uploads\\21864e45-b2a3-4013-ba1b-de8ee3e64c07_Screenshot 2025-07-23 091345.png"
+    },
+    {
+      "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345.png",
+      "PackagePath": "staticwebassets\\uploads\\6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345.png"
+    },
+    {
+      "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345.png",
+      "PackagePath": "staticwebassets\\uploads\\78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345.png"
     },
     {
       "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\8eef7d6c-03f7-4b7b-9476-7e1756bca035_Screenshot 2025-07-23 091345.png",
       "PackagePath": "staticwebassets\\uploads\\8eef7d6c-03f7-4b7b-9476-7e1756bca035_Screenshot 2025-07-23 091345.png"
     },
     {
+      "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345.png",
+      "PackagePath": "staticwebassets\\uploads\\9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345.png"
+    },
+    {
       "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\bd66df69-e8e4-4ecb-a014-9c69cfa8b28b_Screenshot 2025-07-23 091345.png",
       "PackagePath": "staticwebassets\\uploads\\bd66df69-e8e4-4ecb-a014-9c69cfa8b28b_Screenshot 2025-07-23 091345.png"
     },
     {
+      "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345.png",
+      "PackagePath": "staticwebassets\\uploads\\c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345.png"
+    },
+    {
       "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\e80af194-b5d2-4592-8416-f9253da4e18f_Screenshot 2025-07-23 091345.png",
       "PackagePath": "staticwebassets\\uploads\\e80af194-b5d2-4592-8416-f9253da4e18f_Screenshot 2025-07-23 091345.png"
+    },
+    {
+      "Id": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345.png",
+      "PackagePath": "staticwebassets\\uploads\\f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorTaskManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

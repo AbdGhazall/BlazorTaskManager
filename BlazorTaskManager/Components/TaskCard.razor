@@ -14,11 +14,20 @@
                 </div>
             }
         </div>
-        <button class="btn btn-sm btn-outline-danger" @onclick="() => OnDelete.InvokeAsync(Task.Id)">Delete</button>
+        <button class="btn btn-sm btn-danger" @onclick="DeleteTask">Delete</button>
+
     </div>
 </div>
 
 @code {
     [Parameter] public TaskItem Task { get; set; } = new();
     [Parameter] public EventCallback<int> OnDelete { get; set; }
+
+    private async Task DeleteTask()
+    {
+        if (OnDelete.HasDelegate)
+        {
+            await OnDelete.InvokeAsync(Task.Id);
+        }
+    }
 }

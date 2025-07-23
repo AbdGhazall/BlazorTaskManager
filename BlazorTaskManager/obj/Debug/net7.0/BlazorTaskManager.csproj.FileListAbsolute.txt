@@ -33,3 +33,4 @@ D:\.NET Projects\BlazorTaskManager\BlazorTaskManager\obj\Debug\net7.0\refint\Bla
 D:\.NET Projects\BlazorTaskManager\BlazorTaskManager\obj\Debug\net7.0\BlazorTaskManager.pdb
 D:\.NET Projects\BlazorTaskManager\BlazorTaskManager\obj\Debug\net7.0\BlazorTaskManager.genruntimeconfig.cache
 D:\.NET Projects\BlazorTaskManager\BlazorTaskManager\obj\Debug\net7.0\ref\BlazorTaskManager.dll
+D:\.NET Projects\BlazorTaskManager\BlazorTaskManager\obj\Debug\net7.0\BlazorTaskManager.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zJI9FGAiXtBWta33ZaVV82NYUVr+1vB3Xp2B4Bs/umQ=",
+  "Hash": "0HvvwklnI6j7wY/w0DtXWYDGJLB/V/lXl9kHp99eaFI=",
   "Source": "BlazorTaskManager",
   "BasePath": "_content/BlazorTaskManager",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "p18di67tjg",
-      "Integrity": "/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk=",
+      "Fingerprint": "86mtjfjdal",
+      "Integrity": "gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorTaskManager.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "p18di67tjg",
-      "Integrity": "/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk=",
+      "Fingerprint": "86mtjfjdal",
+      "Integrity": "gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorTaskManager.bundle.scp.css"
@@ -304,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zh9s866nx2",
-      "Integrity": "Fx+c1youNLgejKLBM3S2fD6fcDOSv/D7tNQKm5gws6U=",
+      "Fingerprint": "f8mt1bwj2x",
+      "Integrity": "MX31Ts3oN/aY2TGIM1Ovqfu3LiEUQzGudvDzNy86Q2Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -353,6 +353,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\12ff5fc0-9668-460b-ba41-41f8e21e7497_Screenshot 2025-07-23 091345.png"
     },
     {
+      "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345.png",
+      "SourceId": "BlazorTaskManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\",
+      "BasePath": "_content/BlazorTaskManager",
+      "RelativePath": "uploads/17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efrgijibv3",
+      "Integrity": "JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345.png"
+    },
+    {
       "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\21864e45-b2a3-4013-ba1b-de8ee3e64c07_Screenshot 2025-07-23 091345.png",
       "SourceId": "BlazorTaskManager",
       "SourceType": "Discovered",
@@ -372,6 +393,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\21864e45-b2a3-4013-ba1b-de8ee3e64c07_Screenshot 2025-07-23 091345.png"
+    },
+    {
+      "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345.png",
+      "SourceId": "BlazorTaskManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\",
+      "BasePath": "_content/BlazorTaskManager",
+      "RelativePath": "uploads/6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efrgijibv3",
+      "Integrity": "JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345.png"
+    },
+    {
+      "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345.png",
+      "SourceId": "BlazorTaskManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\",
+      "BasePath": "_content/BlazorTaskManager",
+      "RelativePath": "uploads/78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efrgijibv3",
+      "Integrity": "JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345.png"
     },
     {
       "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\8eef7d6c-03f7-4b7b-9476-7e1756bca035_Screenshot 2025-07-23 091345.png",
@@ -395,6 +458,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\8eef7d6c-03f7-4b7b-9476-7e1756bca035_Screenshot 2025-07-23 091345.png"
     },
     {
+      "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345.png",
+      "SourceId": "BlazorTaskManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\",
+      "BasePath": "_content/BlazorTaskManager",
+      "RelativePath": "uploads/9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efrgijibv3",
+      "Integrity": "JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345.png"
+    },
+    {
       "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\bd66df69-e8e4-4ecb-a014-9c69cfa8b28b_Screenshot 2025-07-23 091345.png",
       "SourceId": "BlazorTaskManager",
       "SourceType": "Discovered",
@@ -416,6 +500,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\bd66df69-e8e4-4ecb-a014-9c69cfa8b28b_Screenshot 2025-07-23 091345.png"
     },
     {
+      "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345.png",
+      "SourceId": "BlazorTaskManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\",
+      "BasePath": "_content/BlazorTaskManager",
+      "RelativePath": "uploads/c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efrgijibv3",
+      "Integrity": "JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345.png"
+    },
+    {
       "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\e80af194-b5d2-4592-8416-f9253da4e18f_Screenshot 2025-07-23 091345.png",
       "SourceId": "BlazorTaskManager",
       "SourceType": "Discovered",
@@ -435,9 +540,120 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\e80af194-b5d2-4592-8416-f9253da4e18f_Screenshot 2025-07-23 091345.png"
+    },
+    {
+      "Identity": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345.png",
+      "SourceId": "BlazorTaskManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\",
+      "BasePath": "_content/BlazorTaskManager",
+      "RelativePath": "uploads/f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "efrgijibv3",
+      "Integrity": "JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345.png"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "BlazorTaskManager.86mtjfjdal.bundle.scp.css",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorTaskManager.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 08:11:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "86mtjfjdal"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorTaskManager.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorTaskManager.86mtjfjdal.styles.css",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorTaskManager.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 08:11:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "86mtjfjdal"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorTaskManager.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs="
+        }
+      ]
+    },
     {
       "Route": "BlazorTaskManager.bundle.scp.css",
       "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorTaskManager.bundle.scp.css",
@@ -449,7 +665,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3025"
+          "Value": "3085"
         },
         {
           "Name": "Content-Type",
@@ -457,11 +673,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk=\""
+          "Value": "\"gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 05:28:50 GMT"
+          "Value": "Wed, 23 Jul 2025 08:11:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -471,97 +687,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorTaskManager.p18di67tjg.bundle.scp.css",
-      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorTaskManager.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3025"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 05:28:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p18di67tjg"
-        },
-        {
-          "Name": "label",
-          "Value": "BlazorTaskManager.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorTaskManager.p18di67tjg.styles.css",
-      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorTaskManager.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3025"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 05:28:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p18di67tjg"
-        },
-        {
-          "Name": "label",
-          "Value": "BlazorTaskManager.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk="
+          "Value": "sha256-gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs="
         }
       ]
     },
@@ -576,7 +702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3025"
+          "Value": "3085"
         },
         {
           "Name": "Content-Type",
@@ -584,11 +710,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk=\""
+          "Value": "\"gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 05:28:50 GMT"
+          "Value": "Wed, 23 Jul 2025 08:11:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -598,7 +724,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/UOgtPoUXUhGkxp+kgTZwDYI+Ot6MN7qh44cGC0yVfk="
+          "Value": "sha256-gBTx+pK+tPZ3QtALs3cSWQKEWA7t7tdw/kAnwdQiSvs="
         }
       ]
     },
@@ -1523,11 +1649,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fx+c1youNLgejKLBM3S2fD6fcDOSv/D7tNQKm5gws6U=\""
+          "Value": "\"MX31Ts3oN/aY2TGIM1Ovqfu3LiEUQzGudvDzNy86Q2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 05:27:21 GMT"
+          "Value": "Wed, 23 Jul 2025 08:11:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1537,12 +1663,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Fx+c1youNLgejKLBM3S2fD6fcDOSv/D7tNQKm5gws6U="
+          "Value": "sha256-MX31Ts3oN/aY2TGIM1Ovqfu3LiEUQzGudvDzNy86Q2Y="
         }
       ]
     },
     {
-      "Route": "css/site.zh9s866nx2.css",
+      "Route": "css/site.f8mt1bwj2x.css",
       "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1560,11 +1686,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fx+c1youNLgejKLBM3S2fD6fcDOSv/D7tNQKm5gws6U=\""
+          "Value": "\"MX31Ts3oN/aY2TGIM1Ovqfu3LiEUQzGudvDzNy86Q2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 05:27:21 GMT"
+          "Value": "Wed, 23 Jul 2025 08:11:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1574,7 +1700,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zh9s866nx2"
+          "Value": "f8mt1bwj2x"
         },
         {
           "Name": "label",
@@ -1582,7 +1708,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fx+c1youNLgejKLBM3S2fD6fcDOSv/D7tNQKm5gws6U="
+          "Value": "sha256-MX31Ts3oN/aY2TGIM1Ovqfu3LiEUQzGudvDzNy86Q2Y="
         }
       ]
     },
@@ -1751,6 +1877,88 @@
       ]
     },
     {
+      "Route": "uploads/17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345.efrgijibv3.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 08:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efrgijibv3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\17bd1802-6491-4514-aba1-5e4664bf14d8_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 08:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
       "Route": "uploads/21864e45-b2a3-4013-ba1b-de8ee3e64c07_Screenshot 2025-07-23 091345.efrgijibv3.png",
       "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\21864e45-b2a3-4013-ba1b-de8ee3e64c07_Screenshot 2025-07-23 091345.png",
       "Selectors": [],
@@ -1819,6 +2027,170 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 23 Jul 2025 06:41:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345.efrgijibv3.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 08:07:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efrgijibv3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\6067756b-ed23-44e5-98ad-88181c7afc21_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 08:07:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345.efrgijibv3.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 07:06:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efrgijibv3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\78072087-9253-47ae-a9d0-5a2be0e36bcd_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 07:06:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1915,6 +2287,88 @@
       ]
     },
     {
+      "Route": "uploads/9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345.efrgijibv3.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 07:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efrgijibv3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\9892b265-dd36-45b6-a370-b166c4163dab_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 07:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
       "Route": "uploads/bd66df69-e8e4-4ecb-a014-9c69cfa8b28b_Screenshot 2025-07-23 091345.efrgijibv3.png",
       "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\bd66df69-e8e4-4ecb-a014-9c69cfa8b28b_Screenshot 2025-07-23 091345.png",
       "Selectors": [],
@@ -1997,6 +2451,88 @@
       ]
     },
     {
+      "Route": "uploads/c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345.efrgijibv3.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 07:55:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efrgijibv3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\c80ff623-95bf-4fff-a251-a44de202c3e9_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 07:55:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
       "Route": "uploads/e80af194-b5d2-4592-8416-f9253da4e18f_Screenshot 2025-07-23 091345.efrgijibv3.png",
       "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\e80af194-b5d2-4592-8416-f9253da4e18f_Screenshot 2025-07-23 091345.png",
       "Selectors": [],
@@ -2065,6 +2601,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 23 Jul 2025 06:40:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345.efrgijibv3.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 07:55:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "efrgijibv3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345.png",
+      "AssetFile": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\wwwroot\\uploads\\f3133225-d1c8-4396-aae9-8efdb92be9b5_Screenshot 2025-07-23 091345.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JrNl88hgTwbgOyLxtuNSFgSHJtVT4C4xtoNFKD955mg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 07:55:10 GMT"
         },
         {
           "Name": "Cache-Control",

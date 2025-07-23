@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/.NET Projects/BlazorTaskManager/BlazorTaskManager/Pages/ViewTasks.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Rhc2tzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/.NET Projects/BlazorTaskManager/BlazorTaskManager/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

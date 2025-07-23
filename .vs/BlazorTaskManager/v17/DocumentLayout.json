@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "D:\\.NET Projects\\BlazorTaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\components\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\components\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\components\\taskcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\components\\taskcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,132 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Host.cshtml",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\_Host.cshtml",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Pages\\_Host.cshtml",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\_Host.cshtml",
-              "RelativeToolTip": "BlazorTaskManager\\Pages\\_Host.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T06:56:34.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FetchData.razor",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\FetchData.razor",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Pages\\FetchData.razor",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\FetchData.razor",
-              "RelativeToolTip": "BlazorTaskManager\\Pages\\FetchData.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T06:56:30.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Pages\\Error.cshtml",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\Error.cshtml",
-              "RelativeToolTip": "BlazorTaskManager\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T06:56:29.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Pages\\Counter.razor",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\Counter.razor",
-              "RelativeToolTip": "BlazorTaskManager\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T06:56:27.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Program.cs",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Program.cs",
-              "RelativeToolTip": "BlazorTaskManager\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:53:29.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Services\\TaskService.cs",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Services\\TaskService.cs",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Services\\TaskService.cs",
-              "RelativeToolTip": "BlazorTaskManager\\Services\\TaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:50:07.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.razor",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Pages\\Index.razor",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Pages\\Index.razor",
-              "RelativeToolTip": "BlazorTaskManager\\Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorTaskManager\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorTaskManager\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T05:48:12.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskCard.razor",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Components\\TaskCard.razor",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Components\\TaskCard.razor",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Components\\TaskCard.razor",
-              "RelativeToolTip": "BlazorTaskManager\\Components\\TaskCard.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T05:47:09.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskForm.razor",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Components\\TaskForm.razor",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Components\\TaskForm.razor",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Components\\TaskForm.razor",
-              "RelativeToolTip": "BlazorTaskManager\\Components\\TaskForm.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T05:43:10.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Models\\TaskItem.cs",
-              "RelativeDocumentMoniker": "BlazorTaskManager\\Models\\TaskItem.cs",
-              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Models\\TaskItem.cs",
-              "RelativeToolTip": "BlazorTaskManager\\Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T05:29:42.4Z",
+              "WhenOpened": "2025-07-23T08:12:23.232Z",
               "EditorCaption": ""
             }
           ]
