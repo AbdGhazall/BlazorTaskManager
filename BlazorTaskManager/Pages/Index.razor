@@ -1,0 +1,40 @@
+﻿@page "/"
+@using BlazorTaskManager.Models
+@using BlazorTaskManager.Components
+
+
+<h3 class="mb-3">🗂️ Task Manager</h3>
+
+<TaskForm OnTaskAdded="AddTask" />
+
+@if (tasks.Count == 0)
+{
+    <p class="text-muted">No tasks yet.</p>
+}
+else
+{
+    @foreach (var task in tasks)
+    {
+        <TaskCard Task="task" OnDelete="DeleteTask" />
+    }
+}
+
+@code {
+    private List<TaskItem> tasks = new();
+    private int nextId = 1;
+
+    private void AddTask(TaskItem task)
+    {
+        task.Id = nextId++;
+        tasks.Add(task);
+    }
+
+    private void DeleteTask(int id)
+    {
+        var item = tasks.FirstOrDefault(t => t.Id == id);
+        if (item != null)
+        {
+            tasks.Remove(item);
+        }
+    }
+}

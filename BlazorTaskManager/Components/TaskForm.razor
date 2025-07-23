@@ -1,0 +1,111 @@
+﻿@using BlazorTaskManager.Models
+@using Microsoft.AspNetCore.Components.Forms
+@inject IWebHostEnvironment env
+
+<EditForm Model="newTask" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <!-- Title -->
+    <div class="mb-3">
+        <label class="form-label">Title</label>
+        <InputText class="form-control" @bind-Value="newTask.Title" />
+    </div>
+
+    <!-- Description -->
+    <div class="mb-3">
+        <label class="form-label">Description</label>
+        <InputTextArea class="form-control" @bind-Value="newTask.Description" />
+    </div>
+
+    <!-- Priority -->
+    <div class="mb-3">
+        <label class="form-label">Priority</label>
+        <InputSelect class="form-select" @bind-Value="newTask.Priority">
+            <option value="">-- Select Priority --</option>
+            <option>Low</option>
+            <option>Medium</option>
+            <option>High</option>
+        </InputSelect>
+    </div>
+
+    <!-- Due Date -->
+    <div class="mb-3">
+        <label class="form-label">Due Date</label>
+        <InputDate class="form-control" @bind-Value="newTask.DueDate" />
+    </div>
+
+    <!-- Category -->
+    <div class="mb-3">
+        <label class="form-label">Category</label>
+        <InputRadioGroup @bind-Value="newTask.Category">
+            <div class="form-check">
+                <InputRadio class="form-check-input" Value="@("Work")" />
+                <label class="form-check-label">Work</label>
+            </div>
+            <div class="form-check">
+                <InputRadio class="form-check-input" Value="@("Personal")" />
+                <label class="form-check-label">Personal</label>
+            </div>
+            <div class="form-check">
+                <InputRadio class="form-check-input" Value="@("Other")" />
+                <label class="form-check-label">Other</label>
+            </div>
+        </InputRadioGroup>
+    </div>
+
+    <!-- Completed -->
+    <div class="form-check mb-3">
+        <InputCheckbox class="form-check-input" @bind-Value="newTask.IsCompleted" />
+        <label class="form-check-label">Completed</label>
+    </div>
+
+    <!-- File Upload -->
+    <div class="mb-3">
+        <label class="form-label">Attach File (optional)</label>
+        <InputFile OnChange="HandleFileUpload" />
+        @if (!string.IsNullOrEmpty(uploadedFileName))
+        {
+            <div class="small text-success mt-1">Uploaded: @uploadedFileName</div>
+        }
+    </div>
+
+    <button class="btn btn-primary">Add Task</button>
+</EditForm>
+
+@code {
+    private TaskItem newTask = new();
+    private IBrowserFile? uploadedFile;
+    private string? uploadedFileName;
+
+    [Parameter]
+    public EventCallback<TaskItem> OnTaskAdded { get; set; }
+
+    private async Task HandleValidSubmit()
+    {
+        if (uploadedFile != null)
+        {
+            var uploadsPath = Path.Combine(env.WebRootPath, "uploads");
+            Directory.CreateDirectory(uploadsPath);
+
+            var fileName = $"{Guid.NewGuid()}_{uploadedFile.Name}";
+            var filePath = Path.Combine(uploadsPath, fileName);
+
+            await using var fs = new FileStream(filePath, FileMode.Create);
+            await uploadedFile.OpenReadStream(maxAllowedSize: 10_000_000).CopyToAsync(fs);
+
+            newTask.AttachedFileName = fileName;
+        }
+
+        await OnTaskAdded.InvokeAsync(newTask);
+        newTask = new();
+        uploadedFile = null;
+        uploadedFileName = null;
+    }
+
+    private void HandleFileUpload(InputFileChangeEventArgs e)
+    {
+        uploadedFile = e.File;
+        uploadedFileName = uploadedFile.Name;
+    }
+}

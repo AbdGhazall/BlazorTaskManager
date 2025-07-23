@@ -1,0 +1,24 @@
+﻿@using BlazorTaskManager.Models
+<div class="card mb-2 p-2">
+    <div class="d-flex justify-content-between align-items-center">
+        <div>
+            <input type="checkbox" @bind="Task.IsCompleted" class="form-check-input me-2" />
+            <strong>@Task.Title</strong> - @Task.Category
+            <div class="small text-muted">@Task.Description</div>
+            <div class="small">Priority: @Task.Priority | Due: @(Task.DueDate?.ToShortDateString() ?? "N/A")</div>
+
+            @if (!string.IsNullOrEmpty(Task.AttachedFileName))
+            {
+                <div class="mt-1">
+                    <a href="uploads/@Task.AttachedFileName" target="_blank">📎 View Attachment</a>
+                </div>
+            }
+        </div>
+        <button class="btn btn-sm btn-outline-danger" @onclick="() => OnDelete.InvokeAsync(Task.Id)">Delete</button>
+    </div>
+</div>
+
+@code {
+    [Parameter] public TaskItem Task { get; set; } = new();
+    [Parameter] public EventCallback<int> OnDelete { get; set; }
+}
