@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\.NET Projects\\BlazorTaskManager\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|d:\\.net projects\\blazortaskmanager\\blazortaskmanager\\components\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92B9C3EF-6D05-44D0-8235-AEEB2AEFA8A7}|BlazorTaskManager\\BlazorTaskManager.csproj|solutionrelative:blazortaskmanager\\components\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskForm.razor",
+              "DocumentMoniker": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Components\\TaskForm.razor",
+              "RelativeDocumentMoniker": "BlazorTaskManager\\Components\\TaskForm.razor",
+              "ToolTip": "D:\\.NET Projects\\BlazorTaskManager\\BlazorTaskManager\\Components\\TaskForm.razor",
+              "RelativeToolTip": "BlazorTaskManager\\Components\\TaskForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T05:20:28.898Z",
+              "EditorCaption": ""
             }
           ]
         }
